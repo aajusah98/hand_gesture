@@ -1,4 +1,4 @@
-# miniprojeect_gesture_recognition
+# Hand Gesture Recognition
 ##requirements
   -opencv
   -python version >3.6
